@@ -7,7 +7,6 @@ do
                 break
         elif [ $Word == list ]; then
                 echo ${array_test[@]}
-                break
         else
                 array_test=(${array_test[@]} "$Word")
                 echo ${#array_test[@]}
