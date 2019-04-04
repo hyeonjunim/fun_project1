@@ -9,7 +9,6 @@ F3 = 0
 if (n == "1") or (n == "2"):
 	print 1
 else:
-	#x = "1", y = "1", z = "0"
 	for i in range(2,int(n)):
 		F3=F2+F1
 		F1=F2
