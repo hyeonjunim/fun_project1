@@ -1,2 +1,1 @@
-#!/ban/bish
-echo "Hello world!"
+abc
